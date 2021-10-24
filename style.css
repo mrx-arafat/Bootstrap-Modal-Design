@@ -1,0 +1,27 @@
+.modal-content {
+  background-color: #f3d9d9 !important;
+}
+
+.header-title {
+  width: 40%;
+  color: #5a6268;
+  margin: 10% 2%;
+}
+.blood {
+  color: tomato;
+}
+.img-contaner {
+  width: 30%;
+  margin: 2% 0 2% 10%;
+}
+
+.modal-img {
+  height: 200px;
+  width: 200px;
+
+  border-radius: 50%;
+}
+.button {
+  background-color: rgb(238, 57, 57);
+  color: white;
+}
