@@ -1,7 +1,11 @@
 .modal-content {
   background-color: #f3d9d9 !important;
 }
-
+.cross-sign {
+  font-size: 50px;
+  font-weight: 500;
+  color: rgb(238, 57, 57);
+}
 .header-title {
   width: 40%;
   color: #5a6268;
@@ -12,7 +16,7 @@
 }
 .img-contaner {
   width: 30%;
-  margin: 2% 0 2% 10%;
+  margin: 2% 0 2% 8%;
 }
 
 .modal-img {
